@@ -1,5 +1,8 @@
 const ToDoHeading = () => {
-    return <h1>My Todos</h1>
+    return <div>
+        <h1>My Todos</h1>
+        <hr/>
+    </div>
 }
 
 export default ToDoHeading;
